@@ -20,17 +20,4 @@ I'm a Computer Science student at KLE Technological University, Hubballi, curren
 
 ## A Fun Fact About Me  
 
-You'll often find me sitting alone with a book or my laptop—either enjoying my solitude or trying to crack something I'm studying. And yes, I sometimes talk to myself... but don't worry, I'm not crazy—just a bit eccentric! 😉   
-
-## GitHub Stats  
-
-![Khushi-MA's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushi-MA&show_icons=true&theme=radical)  
-
-## Top Languages  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-MA&layout=compact&theme=radical)  
-
-## Recent Activity  
-
-<!--START_SECTION:activity-->  
-<!--END_SECTION:activity-->  
+You'll often find me sitting alone with a book or my laptop—either enjoying my solitude or trying to crack something I'm studying. And yes, I sometimes talk to myself... but don't worry, I'm not crazy—just a bit eccentric! 😉
